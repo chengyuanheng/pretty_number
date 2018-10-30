@@ -1,4 +1,4 @@
-require "pretty_number/version"
+# require "pretty_number/version"
 
 module PrettyNumber
   DefaultEncryptArray = ["U", "P", "L", "N", "8", "v", "S", "J", "j", "A", "7", "p", "1", "x", "X", "4", "Y", "l", "s", "k", "G", "Q", "V", "E", "w", "d", "z", "r", "c", "5", "g", "B", "9", "o", "W", "q", "C", "T", "F", "h", "3", "Z", "n", "0", "2", "i", "u", "O", "I", "e", "a", "K", "m", "b", "M", "6", "D", "f", "H", "t", "y", "R"]
