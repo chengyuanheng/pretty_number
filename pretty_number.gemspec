@@ -5,12 +5,13 @@ require "pretty_number/version"
 Gem::Specification.new do |spec|
   spec.name          = "pretty_number"
   spec.version       = PrettyNumber::VERSION
+  spec.licenses      = ['MIT']
   spec.authors       = ["cckkll"]
   spec.email         = ["237178842@qq.com"]
 
   spec.summary       = %q{encrypt and decrypt number }
   spec.description   = %q{encrypt and decrypt number}
-  spec.homepage      = "https://github.com/chengyuanheng"
+  spec.homepage      = "https://github.com/chengyuanheng/pretty_number"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
